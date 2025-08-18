@@ -50,7 +50,7 @@ Leading PI (100%), 640,000 CNY
 Task 2: Knowledge-Data Hybrid Driven Operation Approaches for Zero-carbon Industrial Parks  
 Leading PI (100%), 2,400,000 CNY
 
-###State Grid Corporation of China Research Project (Zhejiang Electric Power Company) (2020.6-2021.12)
+### State Grid Corporation of China Research Project (Zhejiang Electric Power Company) (2020.6-2021.12)
 Research on Regulation Market in Zhejiang  
 Leading PI (100%), 790,000 CNY
 
