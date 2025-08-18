@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ye GUO / Updates"
+title                    : "Ye GUO / UPDATES"
 title_separator          : "-"
 name                     : &name "Ye Guo"
 description              : &description "personal description"
@@ -27,19 +27,19 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
-  uri              : # URL
+  employer         : "Hong Kong Polytechnic University"
+  uri              : "https://www.polyu.edu.hk/beee/people/academic-staff/guo-ye/"
   email            : "ye.guo@polyu.edu.hk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=oNwKCqQAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5268-5289"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
