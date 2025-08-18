@@ -25,4 +25,4 @@ Invited Summer Course at Chinese University of Hong Kong, Shenzhen, Summer 2024
 School of Electrical and Computer Engineering, Cornell University, Fall 2017
 
 ### Statistical Signal Processing: Teaching Assistant 
--chool of Electrical and Computer Engineering, Cornell University, Spring 2017
+school of Electrical and Computer Engineering, Cornell University, Spring 2017
