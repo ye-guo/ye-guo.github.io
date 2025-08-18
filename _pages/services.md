@@ -9,23 +9,27 @@ redirect_from:
 
 ### IEEE PES Task Force on State Estimation for Integrated Energy Systems
 
-Co-chair, 2022-Present, Received 2024 IEEE PES Technical Committee Working Group Recognition Award
+- Co-chair, 2022-Present
+- Received 2024 IEEE PES Technical Committee Working Group Recognition Award
 
 ### Reviewer of China Southern Power Grid Research Projects
 
-2020-Present
+- 2020-Present
 
 ### Whitebook on Digital Power Grid in Mega-cities
 
-Co-author, 2024, Co-authored with Shenzhen Electric Power Company, ranked first in academia
+- Co-author, 2024
+- Co-authored with Shenzhen Electric Power Company, ranked first in academia
 
 ### Whitebook on Scalable Applications and Developments of Vehicle-Grid Interactions
 
-Co-author, 2023, Co-authored with Shenzhen Electric Power Company, ranked first in academia
+- Co-author, 2023
+- Co-authored with Shenzhen Electric Power Company, ranked first in academia
 
 ### Path Design of Electricity Price Reform in China towards Carbon Neutrality
 
-Contributor, 2021, Entrusted by National Development & Reform Commission, Received a formal letter of appreciation
+- Contributor, 2021
+- Entrusted by National Development & Reform Commission, Received a formal letter of appreciation
 
 ### Editorial Boards
 
