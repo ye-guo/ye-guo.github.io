@@ -1,5 +1,11 @@
-# Welcome to Professor Ye Guo's Research Group
-
+---
+permalink: /
+title: "Welcome to Professor Ye Guo's Research Group"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Welcome to the homepage of Dr. Ye Guo, Associate Professor in the Department of Building Environment and Energy Engineering (BEEE) at The Hong Kong Polytechnic University.
 
 Dr. Guo is a leading researcher in the field of sustainable energy systems, with a primary focus on the intricate dynamics of the building-grid energy ecosystem. His work encompasses electricity markets, the integration of user-side energy resources through virtual power plants, and the development of integrated energy systems, also known as the Energy Internet.
