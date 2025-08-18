@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 # Welcome to Professor Ye Guo's Research Group
 
 Welcome to the homepage of Dr. Ye Guo, Associate Professor in the Department of Building Environment and Energy Engineering (BEEE) at The Hong Kong Polytechnic University.
