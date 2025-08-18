@@ -7,8 +7,6 @@ redirect_from:
   - /awards.md
 ---
 
-# SELECTED AWARDS
-
 ### National & Provincial Honors
 
 - **National Specially Recruited Overseas Young Talent** (2019)
