@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /publications_md/
 title: "PUBLICATIONS"
 author_profile: true
 redirect_from: 
