@@ -9,6 +9,7 @@ redirect_from:
 
 ### Power Systems and Market Operations: Instructor
 Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, 2019-Present (Spring)
+
 Participated in course evaluation three times, twice top 5% and once top 50% at Tsinghua University.
 
 ### Large Network Steady State Analysis: Instructor 
@@ -16,6 +17,7 @@ Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, 2019-Present (Fall)
 
 ### Introduction of Smart Grid: Instructor 
 Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, 2019-2021 (Spring)
+
 Participated in course evaluation twice, both top 50% at Tsinghua University.
 
 ### Electricity Markets: Instructor 
