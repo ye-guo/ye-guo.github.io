@@ -4,7 +4,7 @@ title: "PROFESSIONAL SERVICES"
 author_profile: true
 redirect_from: 
   - /md/
-  - /services.md
+  - /services.html
 ---
 
 ### IEEE PES Task Force on State Estimation for Integrated Energy Systems
