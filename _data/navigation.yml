@@ -29,23 +29,23 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications_md/
 
-  - title: "Invited Talks"
+  - title: "INVITED TALKS"
     url: /invited_talks/
     
-  - title: "Patents"
+  - title: "PATENTS"
     url: /patents/
 
-  - title: "Selected Research Grants"
+  - title: "SELECTED RESEARCH GRANTS"
     url: /grants/
     
-  - title: "Teaching Experience"
+  - title: "TEACHING EXPERIENCE"
     url: /teach_experience/
 
-  - title: "Professional Services"
+  - title: "PROFESSIONAL SERVICES"
     url: /services/
 
-  - title: "Selected Awards"
+  - title: "SELECTED AWARDS"
     url: /awards/
