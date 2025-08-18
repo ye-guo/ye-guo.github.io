@@ -7,8 +7,6 @@ redirect_from:
   - /services.md
 ---
 
-# PROFESSIONAL SERVICES
-
 ### IEEE PES Task Force on State Estimation for Integrated Energy Systems
 
 Co-chair | 2022-Present
