@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ye GUO / UPDATES"
+title                    : "YE GUO / UPDATES"
 title_separator          : "-"
 name                     : &name "Ye GUO"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ repository               : "ye-guo/ye-guo.github.io"
 author:
   # Biographic information
   avatar           : "profile_polyU.png"
-  name             : "Ye GUO"
+  name             : "YE GUO"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
-  location         : "Hong Kong"
+  location         : "Hong Kong SAR"
   employer         : "Hong Kong Polytechnic University"
   uri              : "https://www.polyu.edu.hk/beee/people/academic-staff/guo-ye/"
   email            : "ye.guo@polyu.edu.hk" 
