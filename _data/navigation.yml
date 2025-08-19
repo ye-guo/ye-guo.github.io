@@ -28,8 +28,9 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
+  
   - title: "CV"
-    url: /cv/
+    url: /cv_short/
     
   - title: "PUBLICATIONS"
     url: /publications_md/
