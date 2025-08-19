@@ -62,5 +62,6 @@ redirect_from:
 ### State Grid Corporation of China Research Project (Jiangsu Electric Power Company) (2022.4-2023.12)
 - Transmission Tariff Design for New-Type Power Systems  
 - Leading PI (100%), 350,000 CNY
+
 ---
 **Sub-total: 20.18 (17.44) Million CNY**
