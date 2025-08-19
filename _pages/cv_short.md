@@ -11,7 +11,7 @@ redirect_from:
 # Ye Guo, Ph.D.
 
 ## PERSONAL INFORMATION
-
+---
 **Position:** Associate Professor  
 
 Department of Building Environment and Energy Engineering  
@@ -24,7 +24,7 @@ Kowloon, Hong Kong
 
 
 ## EDUCATION
-
+---
 **Ph.D., Electrical Engineering** \| 2008-2013  
 
 Tsinghua University, Beijing, China
@@ -41,7 +41,7 @@ Tsinghua University, Beijing, China
 - *Award:* University-level Undergraduate Thesis Honor
 
 ## PROFESSIONAL EXPERIENCE
-
+---
 **Associate Professor** \| 2025.8 - Present  
 
 - Department of Building Environment and Energy Engineering  
@@ -61,17 +61,17 @@ Tsinghua University, Beijing, China
 - Cornell University, Ithaca, New York, U.S.  
 
 ## RESEARCH AND TEACHING INTERESTS
-
+---
 - Sustainable energy systems
 - Electricity markets
 - User-side energy resources and virtual power plants
 - Integrated energy systems and Energy Internet
 
-## [Publications](https://ye-guo.github.io/publications_md/)
+## [PUBLICATIONS](https://ye-guo.github.io/publications_md/)
   
-## [Talks](https://ye-guo.github.io/invited_talks/)
+## [TALKS](https://ye-guo.github.io/invited_talks/)
   
-## [Teaching](https://ye-guo.github.io/teach_experience/)
+## [TEACHING](https://ye-guo.github.io/teach_experience/)
 
-## [Service](https://ye-guo.github.io/services/)
+## [SERVICES](https://ye-guo.github.io/services/)
 
