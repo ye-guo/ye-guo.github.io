@@ -277,6 +277,6 @@ redirect_from:
 
 [C51] Ye Guo, B. Zhang, W. Wu et al., "Accuracy evaluation indexes for power system state estimation results," in *2013 IEEE Power & Energy Society General Meeting*, Vancouver, Canada, July 2013.
 
-## INVITED BOOK CHAPTERS
+## INVITED BOOK CHAPTER
 
 [B1] Ye Guo, L. Tong, B. Zhang et al., *Hierarchical Multi-area State Estimation*. John Wiley & Sons, Ltd. December 2020, edited by Mohamed E. El-Hawary, ch. 12, pp. 375-412.
