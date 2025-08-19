@@ -66,24 +66,11 @@ Tsinghua University, Beijing, China
 - User-side energy resources and virtual power plants
 - Integrated energy systems and Energy Internet
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## [Publications](https://ye-guo.github.io/publications_md/)
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+## [Talks](https://ye-guo.github.io/invited_talks/)
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## [Teaching](https://ye-guo.github.io/teach_experience/)
+
+## [Service](https://ye-guo.github.io/services/)
+
