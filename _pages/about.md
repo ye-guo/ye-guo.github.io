@@ -16,11 +16,11 @@ I have multiple positions available for Ph.D. students in the Sept. 2026 batch. 
 
 1) For the Ph.D. program without master's degrees, the applicant is expected to receive his/her bachelor's degree from a Chinese 985 or equal-level university (e.g., universities with exceptional strengths in power and energy, emerging high-level universities, or renowned universities outside mainland China) with an excellent ranking;
   
-2) For the Ph.D. program with master's degrees, the applicant is expected to receive his/her master's degree from a Chinese 985 or equal-level university with outstanding research capability and outcome;
+2) For the Ph.D. program with master's degrees, the applicant is expected to receive his/her master's degree from a Chinese 985 or equal-level university with solid research outcomes;
    
-3) If you do not satisfy the requirements above, but have a strong willingness and passion for research excellence, you are still welcome to contact me;
+3) If you do not satisfy the requirements above, but have a strong passion for research excellence, you are still welcome to contact me;
    
-4) All applicants should satisfy all the basic requirements of the HK PolyU: https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/. Should have solid mathematical foundations and experience in one of the following areas (depending on research directions you want to pursue): Building energy systems, electric power systems, electricity markets, electric vehicles, renewable energy, deep learning, and large language models.
+4) All applicants should satisfy all the basic requirements of the HK PolyU: \url{https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/}. Should have solid mathematical foundations and experience in one of the following areas (depending on research directions you want to pursue): Building energy systems, electric power systems, electricity markets, electric vehicles, renewable energy, deep learning, and large language models.
 
 I also welcome applicants for postdocs, visiting scholars, and research assistants.
 
