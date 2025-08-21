@@ -32,23 +32,14 @@ main:
   - title: "CV"
     url: /cv_short/
     
-  - title: "PUBLICATIONS"
+  - title: "Selected Publications"
     url: /publications_md/
 
-  - title: "INVITED TALKS"
-    url: /invited_talks/
-    
-  - title: "PATENTS"
-    url: /patents/
-
-  - title: "SELECTED RESEARCH GRANTS"
+  - title: "Selected Research Projects"
     url: /grants/
     
   - title: "TEACHING EXPERIENCE"
     url: /teach_experience/
-
-  - title: "PROFESSIONAL SERVICES"
-    url: /services/
 
   - title: "SELECTED AWARDS"
     url: /awards/
