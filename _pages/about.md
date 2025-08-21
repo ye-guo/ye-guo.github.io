@@ -6,20 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Associate Professor at the Department of Building Environment and Energy Engineering (BEEE), The Hong Kong Polytechnic University.
+I am currently an Associate Professor at the Department of Building Environment and Energy Engineering (BEEE), The Hong Kong Polytechnic University. 
 
-I am looking for self-motivated doctoral students (with or without master's degrees) and postdocs. 
+My research mainly focuses on i) building energy resources and their interactions with the power grid, ii) electricity markets and new-type electric power systems, and iii) urban integrated energy systems and Energy Internet. 
 
-### Academic and Professional Journey
+I have multiple positions available for Ph.D. students in the Sept. 2026 batch. In general, applicants should have the following qualifications:
 
-Dr. Guo joined PolyU in August 2025. Previously, he was an Associate Professor at the Tsinghua-Berkeley Shenzhen Institute of Tsinghua University. His academic foundation was built at Tsinghua University, where he earned both his B.E. and Ph.D. in Electrical Engineering. Following his doctoral studies, he expanded his research horizons as a Postdoctoral Associate at the prestigious School of Electrical and Computer Engineering at Cornell University for over four years.
+1) For the Ph.D. program without master's degrees, the applicant is expected to receive his/her bachelor's degree from a 985 or equal-level university (e.g., universities with exceptional strengths in power and energy, emerging high-level universities, or renowned universities outside mainland China) with an excellent ranking;
+2) For the Ph.D. program with master's degrees, the applicant is expected to receive his/her master's degree from a 985 or equal-level university with outstanding research capability and outcome;
+3) If you do not satisfy the requirements above, but have a strong willingness and passion for research excellence, you are still welcome to contact me;
+4) All applicants should satisfy all the basic requirements of the HK PolyU: https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/. Should have solid mathematical foundations and experience in one of the following areas (depending on research directions you want to pursue): Building energy systems, electric power systems, electricity markets, electric vehicles, renewable energy, deep learning, and large language models.
 
-### Research and Impact
+I also welcome applicants for postdocs, visiting scholars, and research assistants.
 
-Professor Guo's research has made a significant impact on the field, demonstrated by his extensive publication record of over 100 peer-reviewed papers in top-tier journals and conferences. His innovative work has also led to the granting of more than a dozen patents and software copyrights.
-
-He is a highly decorated researcher, having received the IEEE PES General Meeting Best Paper Award four times between 2019 and 2021. His leadership in research is further evidenced by his success in securing over 20 million CNY in research funding as a leading Principal Investigator, with substantial contributions from major industry partners like the China Southern Power Grid.
-
-Recognized for his contributions, Dr. Guo was selected for the National Young Talent Program and has been honored with prestigious awards such as the May 4th Medal of Shenzhen. He is an active member of the academic community, serving as an Associate Editor for leading journals including the *CSEE Journal of Power and Energy Systems* and *IET Generation, Transmission & Distribution*.
-
-We invite you to explore this website to learn more about our ongoing research projects, publications, and opportunities to join our team.
