@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Dr. GUO Ye's homepage"
+title: "Welcome to GUO Ye's homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,8 @@ redirect_from:
 I am currently an Associate Professor at the Department of Building Environment and Energy Engineering (BEEE), The Hong Kong Polytechnic University. 
 
 My research mainly focuses on i) building energy resources and their interactions with the power grid, ii) electricity markets and new-type electric power systems, and iii) urban integrated energy systems and Energy Internet. 
+
+
 
 I have multiple positions available for Ph.D. students in the Sept. 2026 batch. In general, applicants should have the following qualifications:
 
@@ -21,4 +23,6 @@ I have multiple positions available for Ph.D. students in the Sept. 2026 batch. 
 4) All applicants should satisfy all the basic requirements of the HK PolyU: https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/. Should have solid mathematical foundations and experience in one of the following areas (depending on research directions you want to pursue): Building energy systems, electric power systems, electricity markets, electric vehicles, renewable energy, deep learning, and large language models.
 
 I also welcome applicants for postdocs, visiting scholars, and research assistants.
+
+If you are interested, please send your CV and a one-page self-statement to ye.guo(at)polyu.edu.hk. There is no requirement for the statement. You can organize whatever content you consider helpful to convince me. 
 
