@@ -28,7 +28,10 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-  
+
+  - title: "Home"
+    url: /About/
+    
   - title: "CV"
     url: /cv_short/
     
@@ -38,8 +41,8 @@ main:
   - title: "Selected Research Projects"
     url: /grants/
     
-  - title: "TEACHING EXPERIENCE"
+  - title: "Students"
     url: /teach_experience/
 
-  - title: "SELECTED AWARDS"
+  - title: "Others"
     url: /awards/
