@@ -11,7 +11,6 @@ redirect_from:
 # Ye Guo, Ph.D.
 
 ## Current Position
----
 Associate Professor  
 
 Department of Building Environment and Energy Engineering  

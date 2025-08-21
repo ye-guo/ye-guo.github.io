@@ -1,6 +1,6 @@
 ---
 permalink: /publications_md/
-title: "PUBLICATIONS"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /md/
