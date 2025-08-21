@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am currently an Associate Professor at the Department of Building Environment and Energy Engineering (BEEE), The Hong Kong Polytechnic University. 
 
-My research mainly focuses on i) building energy resources and their interactions with the power grid, ii) electricity markets and new-type electric power systems, and iii) urban integrated energy systems and Energy Internet. 
+My research mainly focuses on: i) building energy resources and their interactions with the power grid, ii) electricity markets and new-type electric power systems, and iii) urban integrated energy systems and Energy Internet. 
 
 I have multiple positions available for Ph.D. students in the Sept. 2026 batch. In general, applicants should have the following qualifications:
 

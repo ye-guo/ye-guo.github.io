@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv_short/
 author_profile: true
 redirect_from:
@@ -42,5 +42,4 @@ B.E. and Ph.D. from the Department of Electrical Engineering, Tsinghua Universit
 - School of Electrical and Computer Engineering  
 
 - Cornell University, Ithaca, New York, U.S.  
-
 
