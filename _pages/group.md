@@ -1,10 +1,10 @@
 ---
-permalink: /teach_experience/
+permalink: /group/
 title: "Research Group"
 author_profile: true
 redirect_from: 
   - /md/
-  - /teach_experience.md
+  - /group.md
 ---
 
 Current Students:
