@@ -36,7 +36,7 @@ main:
     url: /cv_short/
 
   - title: "Group"
-    url: /teach_experience/
+    url: /group/
     
   - title: "Selected Publications"
     url: /publications_md/
@@ -45,4 +45,4 @@ main:
     url: /grants/
 
   - title: "Others"
-    url: /awards/
+    url: /others/
