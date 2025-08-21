@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
-title_separator          : ""
+title                    : "Home"
+title_separator          : "-"
 name                     : &name "Ye GUO"
 description              : &description "personal description"
 url                      : https://guo-ye.net # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
