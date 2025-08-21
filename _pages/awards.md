@@ -1,10 +1,10 @@
 ---
-permalink: /awards/
-title: "SELECTED AWARDS"
+permalink: /others/
+title: "Others"
 author_profile: true
 redirect_from: 
   - /md/
-  - /awards.md
+  - /others.md
 ---
 
 ### National & Provincial Honors
