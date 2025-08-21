@@ -1,6 +1,6 @@
 ---
 permalink: /teach_experience/
-title: "TEACHING EXPERIENCE"
+title: "Research Group
 author_profile: true
 redirect_from: 
   - /md/
