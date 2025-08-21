@@ -12,8 +12,8 @@ redirect_from:
 ### Ph.D. students (Tsinghua University)
 
 - LIU, Leijia (2025-now)
-  - B.E. from XXX University 
-  - XXX
+  - B.E. form Chongqing University and University of Cincinnati 
+  - Generative AI Model-Based Forecast
 - LI, Chenghan (2024-now)
   - XX. from XX University 
   - XXX
