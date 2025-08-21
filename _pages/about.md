@@ -14,7 +14,7 @@ My research mainly focuses on i) building energy resources and their interaction
 
 I have multiple positions available for Ph.D. students in the Sept. 2026 batch. In general, applicants should have the following qualifications:
 
-1) For the Ph.D. program without master's degrees, the applicant is expected to receive his/her bachelor's degree from a Chinese 985 or similar-level university (e.g., universities with exceptional strengths in power and energy, emerging high-level universities, or renowned universities outside mainland China) with an excellent ranking;
+1) For the Ph.D. program without master's degrees, the applicant is expected to receive his/her bachelor's degree from a Chinese 985 or similar-level university (e.g., universities with exceptional strengths in related areas, emerging high-level universities, or renowned universities outside mainland China) with an excellent ranking;
   
 2) For the Ph.D. program with master's degrees, the applicant is expected to receive his/her master's degree from a Chinese 985 or similar-level university with solid research outcomes;
    
