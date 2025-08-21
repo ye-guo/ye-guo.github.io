@@ -1,6 +1,6 @@
 ---
-permalink: /invited_talks/
-title: " INVITED TALKS"
+permalink: /talks/
+title: "TALKS"
 author_profile: true
 redirect_from: 
   - /md/
