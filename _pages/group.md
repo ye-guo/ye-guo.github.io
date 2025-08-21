@@ -37,13 +37,13 @@ redirect_from:
 
 - WEI, Ran (2025-now)
   - B.E. from Tsinghua University
-  - Large language model-based forecast
+  - Large Language Model-Based Forecast
 - ZHAO, Zhiyi (2024-now)
-  - B.E. from XXX University 
-  - XXX
+  - B.E. from South China University of Technology
+  - Electricity Market Design and Modeling
 - QI, Yuchen (2024-now)
-  - B.E. from XXX University 
-  - XXX
+  - B.E. from Wuhan University, M.E. from Tsinghua University 
+  - Short-Term Load Forecast, State Estimation and Optimization in Distribution Network
 - XU, Jingwen (2024-now)
   - B.E. from XXX University 
   - XXX
@@ -52,7 +52,7 @@ redirect_from:
   - XXX
 - WANG, Shichao (2023-now)
   - B.E. from North China Electric Power University
-  - Virtual power plant 
+  - Virtual Power Plant 
 - JIANG, Yuheng (2023-now)
   - B.E. from XXX University 
   - XXX
