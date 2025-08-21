@@ -1,10 +1,10 @@
 ---
-permalink: /grants/
-title: "SELECTED RESEARCH GRANTS"
+permalink: /projects/
+title: "SELECTED RESEARCH PROJECTS"
 author_profile: true
 redirect_from: 
   - /md/
-  - /grants.md
+  - /projects.md
 ---
 
 ### National Young Talent Program (2019.1-2021.12)
