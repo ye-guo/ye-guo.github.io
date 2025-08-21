@@ -18,7 +18,7 @@ I have multiple positions available for Ph.D. students in the Sept. 2026 batch. 
    
 3) If you do not satisfy the requirements above, but have a strong passion for research excellence, you are still welcome to contact me;
    
-4) All applicants must satisfy all the basic requirements of the HK [PolyU]{https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/}. Should have solid mathematical foundations and experience in one or more of the following areas (depending on research directions you want to pursue): Building energy systems, electric power systems, electricity markets, electric vehicles, renewable energy, deep learning, and large language models.
+4) All applicants must satisfy all the basic requirements of the HK [PolyU](https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/). Should have solid mathematical foundations and experience in one or more of the following areas (depending on research directions you want to pursue): Building energy systems, electric power systems, electricity markets, electric vehicles, renewable energy, deep learning, and large language models.
 
 I also welcome applicants for postdocs, visiting scholars, and research assistants.
 
