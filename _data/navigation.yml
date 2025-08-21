@@ -29,20 +29,20 @@ main:
   # - title: "CV"
   #   url: /cv-json/
 
-  - title: "Home"
-    url: /about/
+#  - title: "Home"
+#    url: /about/
     
   - title: "CV"
     url: /cv_short/
+
+  - title: "Group"
+    url: /teach_experience/
     
   - title: "Selected Publications"
     url: /publications_md/
 
   - title: "Selected Research Projects"
     url: /grants/
-    
-  - title: "Students"
-    url: /teach_experience/
 
   - title: "Others"
     url: /awards/
