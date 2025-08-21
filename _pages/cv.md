@@ -10,7 +10,7 @@ redirect_from:
 
 # Ye Guo, Ph.D.
 
-## PERSONAL INFORMATION
+## Current Position
 
 **Position:** Associate Professor  
 
@@ -18,27 +18,12 @@ Department of Building Environment and Energy Engineering
 
 The Hong Kong Polytechnic University  
 
-**Address:** Room ZN822, Block Z, HK PolyU  
-
-Kowloon, Hong Kong
+ye.guo(at)polyu.edu.hk
 
 
 ## EDUCATION
 
-**Ph.D., Electrical Engineering** \| 2008-2013  
-
-Tsinghua University, Beijing, China
-
-- *Dissertation:* Research on the Robust Model and Efficient Solutions of Power System State Estimation
-- *Advisor:* Prof. Boming Zhang
-- *Award:* Excellent Doctoral Graduate Student Award
-
-**B.E., Electrical Engineering** \| 2004-2008
-
-Tsinghua University, Beijing, China
-
-- *Thesis:* Real-time Modeling of External Networks in Electric Power Systems
-- *Award:* University-level Undergraduate Thesis Honor
+B.E. and Ph.D. from the Department of Electrical Engineering, Tsinghua University
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -59,13 +44,6 @@ Tsinghua University, Beijing, China
 - School of Electrical and Computer Engineering  
 
 - Cornell University, Ithaca, New York, U.S.  
-
-## RESEARCH AND TEACHING INTERESTS
-
-- Sustainable energy systems
-- Electricity markets
-- User-side energy resources and virtual power plants
-- Integrated energy systems and Energy Internet
 
 ## [Publications](https://ye-guo.github.io/publications_md/)
   
