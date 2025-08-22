@@ -10,7 +10,8 @@ redirect_from:
 
 # Ye Guo, Ph.D.
 
-## Current Position
+## CURRENT POSITION
+---
 Associate Professor  
 
 Department of Building Environment and Energy Engineering  
@@ -22,14 +23,13 @@ The Hong Kong Polytechnic University
 ye.guo(at)polyu.edu.hk
 
 
-## Education
-
+## EDUCATION
+---
 B.E. and Ph.D. from the Department of Electrical Engineering, Tsinghua University, Beijing, China.
 
 
-## Professional Experience
-
-
+## PROFESSIONAL EXPERIENCE
+---
 **Assistant and Associate (2021) Professor** \| 2018.7 - 2025.7  
 
 - Tsinghua-Berkeley Shenzhen Institute  
