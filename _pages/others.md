@@ -7,19 +7,15 @@ redirect_from:
   - /others.md
 ---
 
-### National & Provincial Honors
+### Selected Awards
 
 - **National Specially Recruited Overseas Young Talent** (2019)
   - *Funded with priority*
 - **Zhujiang Talent Program of Guangdong Province** (2019)
   - *Outstanding Young Talent Rank A*
 - **Shenzhen May 4th Medal** (2022)
-- **Peacock Talent Program of Shenzhen** (2019)
-  - *Outstanding Overseas Talent Rank B*
-- **Excellent Ph.D. students, Chinese Ministry of Education** (2011)
-  - *690 Recipients Nationwide*
 
-### Best Paper & Poster Awards
+### Selected Best Paper & Poster Awards
 
 - **IEEE EI2 Conference Best Paper Award** (2022)
   - *Pricing resources in renewable portfolio standard-constrained spot markets*
@@ -45,8 +41,3 @@ redirect_from:
 - **PSERC IAB Meeting Best Poster Award** (2018)
   - *Coordination Mechanisms for Seamless Operation of Interconnected Power Systems*
   - with M.Ndrio
-
-### Academic Scholarships
-
-- **December 9th Anniversary Scholarship (Top Rank at Tsinghua University)** (2011)
-  - *Tsinghua University, 85 Recipients of Top-rank Scholarships University-wide*
