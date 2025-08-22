@@ -67,13 +67,13 @@ redirect_from:
   - *Current Employer:* Guangdong Electric Power Company
 - **MENG, Zichao** (2020-2024)
   - *Current Employer:* Guangdong Electric Power Company
-- **LIU, Hao** (2019-2023, co-advised with Prof. Hongbin Sun)
+- **LIU, Hao** (2019-2023)
   - *Current Employer:* Electric Power Planning Institute
-- **XU, Zheng** (2017-2022, co-advised with Prof. Hongbin Sun)
+- **XU, Zheng** (2017-2022)
   - *Current Employer:* Jiangsu Electric Power Company
-- **ZHAO, Yiqi** (2017-2021, Tsinghua University)
+- **ZHAO, Yiqi** (2017-2021)
   - *Current Employer:* Shenzhen High School
-- **YU, Jing** (2016-2021, co-advised with Prof. Hongbin Sun)
+- **YU, Jing** (2016-2021)
   - *Current Employer:* Headquarters of State Grid Corporation of China
 
 ### Master's Graduates
@@ -96,17 +96,17 @@ redirect_from:
   - *Employer:* Chongqing Development and Reform Commission
 - **LIU, Shudi** (2019-2022)
   - *Employer:* Sichuan Electric Power Company
-- **YANG, Tianshu** (2018-2021, co-advised with Prof. Hongbin Sun)
+- **YANG, Tianshu** (2018-2021)
   - *Current Status:* Ph.D. Student at ETH Zurich & EPFL, Switzerland
-- **CHEN, Guibin** (2018-2021, co-advised with Prof. Qinglai Guo)
+- **CHEN, Guibin** (2018-2021)
   - *Current Status:* Ph.D. Student at New York University, U.S.
-- **WANG, Yue** (2018-2021, Tsinghua University)
+- **WANG, Yue** (2018-2021)
   - *Employer:* Tencent
-- **CHEN, Jiaqi** (2017-2020, Tsinghua University, co-advised with Prof. Wenchuan Wu)
+- **CHEN, Jiaqi** (2017-2020u)
   - *Current Status:* postdoc at ETH Zurich
-- **QIN, Xin** (2017-2020, Tsinghua University, co-advised with Prof. Hongbin Sun)
+- **QIN, Xin** (2017-2020)
   - *Current Status:* Ph.D. student at the University of Cambridge, U.K.
-- **CHEN, Cong** (2017-2019, Tsinghua University, co-advised with Prof. Hongbin Sun)
+- **CHEN, Cong** (2017-2019)
   - *Employer:* Assistant Professor at Dartmouth University
 
 ### Postdoctoral Researchers
