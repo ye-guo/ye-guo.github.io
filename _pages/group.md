@@ -107,7 +107,7 @@ redirect_from:
 - **QIN, Xin** (2017-2020)
   - *Current Status:* Ph.D. student at the University of Cambridge, U.K.
 - **CHEN, Cong** (2017-2019)
-  - *Employer:* Assistant Professor at Dartmouth University
+  - *Employer:* Assistant Professor at Dartmouth College
 
 ### Postdoctoral Researchers
 
