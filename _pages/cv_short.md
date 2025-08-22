@@ -22,12 +22,12 @@ The Hong Kong Polytechnic University
 ye.guo(at)polyu.edu.hk
 
 
-## EDUCATION
+## Education
 
 B.E. and Ph.D. from the Department of Electrical Engineering, Tsinghua University, Beijing, China.
 
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
 
 
 **Assistant and Associate (2021) Professor** \| 2018.7 - 2025.7  
