@@ -102,7 +102,7 @@ redirect_from:
   - *Current Status:* Ph.D. Student at New York University, U.S.
 - **WANG, Yue** (2018-2021)
   - *Employer:* Tencent
-- **CHEN, Jiaqi** (2017-2020u)
+- **CHEN, Jiaqi** (2017-2020)
   - *Current Status:* postdoc at ETH Zurich
 - **QIN, Xin** (2017-2020)
   - *Current Status:* Ph.D. student at the University of Cambridge, U.K.
